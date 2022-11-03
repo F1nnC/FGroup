@@ -1,3 +1,10 @@
+---
+title: Rap
+layout: default
+description: The top rap artist
+permalink: /rap
+---
+
 <div class="px-5 py-5 mx-auto">
     <h1 class="text-primary"><strong>Top Five Rap Artist</strong></h1>
     <h2 class="text-primary"><strong>Kendrick Lamar</strong></h2>
